@@ -14,8 +14,7 @@ Teste feito para a Direct Solution.
 
 ### Pré-requisitos
 
-- Flutter SDK (>= 3.0.0)
-- Firebase configurado
+- Flutter SDK 3.29.1
 - Android SDK
 
 ### Instalação
